@@ -1,2 +1,4 @@
 Esta es la funcionalidad 2 neuva 
 lkjhgfghjks
+
+Nombre de la funcion: algoritmo neperiano de descartes
